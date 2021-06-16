@@ -1,0 +1,23 @@
+{
+    "cursus": "java-3",
+    "school": {
+        "naam": "Groeipunt",
+        "website": "groeipunt.be",
+        "provincie": "Oost-Vlaanderen",
+        "afdelingen": ["Gent", "Assenede", "Eeklo"]
+    },
+    "cursisten": [
+        {
+            "naam": "Jan Janssens"
+        },
+        {
+            "naam": "Piet Pieters"
+        },
+        {
+            "naam": "Tjores Jorissens"
+        },
+        {
+            "naam": "Corneel Cornelis"
+        }
+    ]
+}
